@@ -13,4 +13,3 @@ function vote(){
     }else if(marks >80 && marks <=100){
         resultmessage = Name + "has passed with merit" + marks + "marks";
     }
-}
